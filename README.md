@@ -1,8 +1,3 @@
-Siap 👍
-Berikut **README.md FINAL (langsung file README, bukan penjelasan)** untuk project **`viewsblogautomation`**.
-Tinggal **copy–paste ke `README.md` di GitHub**.
-
-```markdown
 # 👁️ viewsblogautomation
 
 viewsblogautomation adalah tools berbasis Python untuk melakukan simulasi kunjungan (views) ke blog Blogger / Blogspot menggunakan User-Agent acak (desktop & mobile) serta delay dinamis agar menyerupai perilaku pengguna nyata.
