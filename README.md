@@ -22,7 +22,7 @@ Tool ini ditujukan untuk pengujian performa dan analisis trafik pada blog milik 
 ```
 
 viewsblogautomation/
-├── viewsblogautomation.py
+├── views.py
 ├── traffic_simulator.log
 └── README.md
 
